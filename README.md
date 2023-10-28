@@ -1,24 +1,40 @@
 # Event-Management-System
 
-First clone the repository in you pc using command:
+First, clone the repository to your local system using command:
+
+
 git clone https://github.com/aakritneupane/Event-Management-System.git
 
-Then open the terminal inside the Event-Management-System folder
-To access frontend
-StepI: cd frontend
-Stept II: then install the node package manager using the command :
+
+To access frontend:
 
 
-npm install
-(This installs all the node packages required to run the project)
-npm start
+Open Terminal at Event-Management-System folder
 
-Now for backend
+Step I: cd frontend
 
 
+step II: npm install (this installs all the packages required for this project to run)
 
 
-cd backend
-npm install
-npm start
-localhost:portno(5001-most probably) 
+step III: npm start
+
+
+
+
+To access the backend:
+
+
+Open Terminal at Event-Management-System folder
+
+Step I: cd backend
+
+
+step II: npm install
+
+
+step III: npm start
+
+
+step IV: localhost:port_no(most probably: 5001)
+
